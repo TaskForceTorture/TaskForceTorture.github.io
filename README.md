@@ -1,5 +1,5 @@
 # Jankycraft
 
-[TaskForceTorture.github.io](TaskForceTorture.github.io)
+[TaskForceTorture.github.io](https://TaskForceTorture.github.io)
 
-[jankycraft.netlify.app](jankycraft.netlify.app)
+[jankycraft.netlify.app](https://jankycraft.netlify.app)
